@@ -12,7 +12,7 @@ Antes de ejecutar este programa, asegúrate de tener lo siguiente instalado en t
 ## Pasos para Descargar y Ejecutar el Proyecto
 Clonar el repositorio desde GitHub:  
 Abre tu terminal y escribe:  
-git clone https://github.com/TuUsuario/fundamentos_proyecto_php.git
+git clone https://github.com/Hyasmin96/fundamentos_proyecto_php.git
 
 Navegar al directorio del proyecto:   
 cd Actividad3   
